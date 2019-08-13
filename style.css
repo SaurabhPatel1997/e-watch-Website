@@ -1,0 +1,482 @@
+body
+{
+
+position: relative;
+}
+
+.proland
+{
+width: 25px;
+height:5px;
+border: 1px solid black;
+
+
+}
+#vvv
+{
+width: 10px;
+height: 10px;
+}
+#hmm
+{
+margin-left: 300px;
+margin-top: 12px;
+}
+#hm
+{
+margin-left: 25px;
+margin-top: 12px;
+
+}
+.bkg
+{
+
+width:100%;
+height: 700px;
+background-image: url("hhh.jpg");
+background-position:
+
+}
+#nav
+{
+	margin-left: 300px;
+	margin-right: 250px;
+	margin-top: 15px;
+
+}
+#navv
+{
+margin-left: 15px;
+margin-top: 15px;
+
+}
+#mg
+{
+
+
+
+margin-top: 50px;
+
+}
+#wmg
+{
+	
+  height: 400px;
+  width: 250px;
+  margin-top: 50px;
+
+}
+
+#ndd
+{
+	font-size: 40px;
+
+margin-left: 400px;
+margin-right: 250px;
+
+}
+.xx
+{
+
+margin-left: 0px;
+font-size: 20px;
+margin-right: 40px;
+
+}
+#nn
+{
+ width: 900px;
+ height: 800px;
+ background-color:white;
+ margin-top: 170px;
+ margin-left: 480px;
+
+ 
+
+
+}
+
+
+#nnn
+{
+ width: 1100px;
+ height: 1200px;
+ background-color:grey;
+ margin-top: 170px;
+ margin-left: 400px;
+
+ 
+
+
+}
+.pp
+{
+height: 450px;
+  width: 450px;
+  margin-top: 50px;
+  margin-left: 200px;
+  
+
+
+
+
+}
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 70px;
+  background-color:rgb(233,233,238);;
+}
+
+
+.png
+{
+width:150px;
+height: 150px;
+margin-left: 50px;
+margin-top: 20px;
+
+
+}
+#mnp
+{
+
+float: left;
+
+}
+#med
+{
+
+width:1200px;
+height: 120px;
+margin-left: -100px;
+background-color:white;
+margin-top: 80px;
+
+
+
+}
+#medd
+{
+
+width:1200px;
+height: 140px;
+margin-left: -100px;
+background-color: white;
+margin-top: 20px;
+
+
+
+
+}
+#bound
+{
+	height:50px;
+	width: 330px;
+float: left;
+margin-right: 70px;
+
+
+}
+.imag
+{
+
+height: 50px;
+width: 50px;
+margin-right: 5px;
+}
+#nex
+{
+
+margin-top: 80px;
+
+}
+
+
+
+#met
+{
+
+width:1400px;
+height: 600px;
+margin-left: -120px;
+background-color:white;
+margin-top: 80px;
+
+
+
+}
+.pkr
+{
+width:400px;
+height:450px;
+margin-top: 40px;
+
+
+}
+#ww
+{
+ 
+ width: 400px;
+ height: 450px;
+ margin-left: 100px;
+ 
+ 
+
+}
+.orcl
+{
+
+width:1400px;
+height: 500px;
+margin-left: -120px;
+background-color:white;
+
+margin-top: 80px;
+}
+
+
+#collection
+{
+	margin-left: 18px;
+ width:320;
+ height: 500px;
+ 
+margin-right: 20px;
+
+}
+#imgcl
+{
+ width: 300px;
+height: 300px;
+
+
+}
+
+#www
+{
+
+width:1400px;
+height: 600px;
+margin-left: -120px;
+background-color:white;
+
+margin-top: 80px;
+margin-bottom: 80px;
+}
+.ttt
+{
+
+width: 400px;
+height: 500px;
+margin-left: 50px;
+margin-top: 80px;
+margin-right: 200px;
+
+
+
+}
+
+#isize
+{
+	
+width: 370px;
+height: 600px;
+margin-top: -25px;
+
+
+
+}
+.fix
+{
+  width: 600px;
+  height: 600px;
+
+
+}
+
+
+.abc
+{
+
+height: 550px;
+width:2200px;
+margin-left: -350px;
+margin-right: -200px;
+
+
+}
+
+
+
+
+.abd
+{
+
+height: 650px;
+width:2000px;
+margin-left: -450px;
+margin-right: -400px;
+
+
+
+}
+
+#immage
+{
+margin:0 px;
+width: 900px;
+height: 550px;
+margin-left: -100px;
+
+
+}
+#immagge
+{
+margin-left:100px;
+width: 1000px;
+height: 550px;
+
+
+}
+.ccc
+{
+
+width:1400px;
+height: 250px;
+margin-left: -120px;
+background-color:white;
+margin-right: 100px;
+
+margin-top: 20px;
+
+}
+.gif
+{
+
+width: 220px;
+height: 250px;
+margin-right: 50px;
+
+}
+.up
+{
+margin-left: 100px;
+margin-bottom: 10px;
+}
+.vvv
+{
+width:1200px;
+height: 250px;
+margin-left: -110px;
+background-color:white;
+
+
+}
+.pqr
+{
+height: 250px;
+width: 100px;
+margin-right: 200px;
+margin-bottom: 20px;
+margin-top: 20px;
+
+
+
+
+}
+.team
+{
+
+height: 250px;
+width: 1200px;
+margin-left: -160px;
+background-color:#f8fbfd;
+margin-right: 140px;
+
+
+
+}
+.app
+{
+
+height: 650px;
+width:2400px;
+margin-left: -500px;
+margin-right: -10px;
+
+background-image: url("aa0.jpg");
+opacity: 0.70;
+position: relative;
+
+
+}
+.mob
+{
+
+width: 500px;
+height: 550px;
+margin-top: 100px;
+margin-left: -200px;
+opacity:3.0;
+}
+.msd
+{
+	margin-top: 100px;
+  margin-right: 100px;
+
+}
+.asd
+{
+margin-left: 200px;
+width: 50px;
+height: 500px;
+
+
+
+}
+.mapp
+{
+height: 650px;
+width:2400px;
+margin-left: -500px;
+margin-right: -10px;
+position: relative;
+
+
+
+}
+.jjj
+{
+	margin-top:100px;
+width:2400px;
+height: 150px;
+margin-left: -500px;
+margin-right: -10px;
+background-color:#f8fbfd;
+margin-bottom: 0;
+border:2px solid;
+border-color: grey;
+
+
+}
+.zz
+{
+
+width: 2400px;
+height: 400px;
+margin-left:-500px;
+margin-right: -10px;
+background-color:white;
+margin-top: -400px;
+
+}
+.ftt
+{
+
+margin-left: 100px;
+margin-right: 100px;
+}
